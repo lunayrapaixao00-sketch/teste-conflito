@@ -1,2 +1,1 @@
-# teste-conflito
-apenas para testes de aprendizado
+editado pela lunayra
